@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://flybirdfitness.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://flybirdfitness.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://flybirdfitness.com/collections/dumbbells.atom"/>
+  <title>Flybird Fitness</title>
+  <updated>2021-10-20T17:18:51+08:00</updated>
+  <author>
+    <name>Flybird Fitness</name>
+  </author>
+  <entry>
+    <id>https://flybirdfitness.com/products/6987248566465</id>
+    <published>2021-10-20T17:18:51+08:00</published>
+    <updated>2021-10-20T17:18:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flybirdfitness.com/products/flybird-55lbs-adjustable-dumbbells-pair"/>
+    <title>Flybird 55 lb Adjustable Dumbbells (pair)</title>
+    <s:type></s:type>
+    <s:vendor>Flybird Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0444/1256/7702/products/55lbsadjustabledumbbell-1.png?v=1649331765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flybird Fitness<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            379.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Ultimate dumbbells for Muscle Gain and core strength gains. Adjust the weight from 11 - 55 lb with just a twist. Perfect your form and engage your core and stabilizer muscles with this functional alternative to traditional weightlifting.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable dumbbell</s:tag>
+    <s:tag>dumbbell</s:tag>
+    <s:tag>flybird</s:tag>
+    <s:tag>FLYBIRD Adjustable Dumbbell</s:tag>
+    <s:tag>strength training dumbbell</s:tag>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/6987248566465</id>
+      <title>Default Title</title>
+      <s:price currency="USD">379.99</s:price>
+      <s:sku>SKFBDB55LB*2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flybirdfitness.com/products/6813616144577</id>
+    <published>2021-07-08T22:05:32+08:00</published>
+    <updated>2021-07-08T22:05:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flybirdfitness.com/products/flybird-55lbs-adjustable-dumbbell"/>
+    <title>Flybird 55lbs Adjustable Dumbbell</title>
+    <s:type>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell</s:type>
+    <s:vendor>Flybird Fitness</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0444/1256/7702/products/flybird-55lb.jpg?v=1629269159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Flybird Fitness<br>
+        <strong>Type: </strong>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell<br>
+        <strong>Price: </strong>
+            189.99 - 379.99
+            <a href="https://flybirdfitness.com/products/flybird-55lbs-adjustable-dumbbell">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">FLYBIRD designs and produces strength equipment that can bring diversified weight training. We always adhere to the strict control of raw materials and product quality.<br>FLYBIRD adjustable dumbbell supports diverse strength training by changing different weights. Adjustment weights from 11lb to 55lb, even fitness beginners are very easy to use. It is a great choice for modifying muscle lines and strong muscle fibers.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable dumbbell</s:tag>
+    <s:tag>dumbbell</s:tag>
+    <s:tag>FLYBIRD Adjustable Dumbbell</s:tag>
+    <s:tag>strength training dumbbell</s:tag>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/6813616144577</id>
+      <title>Single</title>
+      <s:price currency="USD">189.99</s:price>
+      <s:sku>SKFBDB55LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/6813616144577</id>
+      <title>Set of 2</title>
+      <s:price currency="USD">379.99</s:price>
+      <s:sku>SKFBDB55LB X 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flybirdfitness.com/products/6705306403009</id>
+    <published>2021-06-03T10:26:00+08:00</published>
+    <updated>2021-06-03T10:26:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flybirdfitness.com/products/flybird-adjustable-dumbbell-25-lbs-2-pieces"/>
+    <title>FLYBIRD Adjustable Dumbbell 25 LBS (2 pieces)</title>
+    <s:type>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell</s:type>
+    <s:vendor>FLYBIRD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0444/1256/7702/products/Adjustable-Dumbbells-Workout-Strength-Training_4645111d-5ca4-43c1-9317-398dd31e727d.jpg?v=1622687104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLYBIRD<br>
+        <strong>Type: </strong>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Only need 1 set of dumbbell space, you can have 5 sets of dumbbell training experience with 80% space saving. </div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable dumbbell</s:tag>
+    <s:tag>adjustable free weight</s:tag>
+    <s:tag>dumbbell</s:tag>
+    <s:tag>fitness</s:tag>
+    <s:tag>flybird</s:tag>
+    <s:tag>FLYBIRD Adjustable Dumbbell</s:tag>
+    <s:tag>free weight</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>strength training</s:tag>
+    <s:tag>strength training at home</s:tag>
+    <s:tag>strength training dumbbell</s:tag>
+    <s:tag>strength training free weight</s:tag>
+    <s:tag>workout at home</s:tag>
+    <s:tag>workout for strength training</s:tag>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/6705306403009</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>SKFBDB25LB X 2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://flybirdfitness.com/products/5547914395798</id>
+    <published>2021-05-13T10:34:28+08:00</published>
+    <updated>2021-05-13T10:34:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://flybirdfitness.com/products/flybird-adjustable-dumbbell-25lbs"/>
+    <title>FLYBIRD Adjustable Dumbbell 25 LBS</title>
+    <s:type>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell</s:type>
+    <s:vendor>FLYBIRD</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0444/1256/7702/products/Flybird-Adjustable-Dumbbells.jpg?v=1620873206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>FLYBIRD<br>
+        <strong>Type: </strong>Sporting Goods &gt; Exercise &amp; Fitness &gt; Weight Lifting &gt; Free Weight Accessories &gt; Adjustable Dumbbell<br>
+        <strong>Price: </strong>
+            105.99 - 199.99
+            <a href="https://flybirdfitness.com/products/flybird-adjustable-dumbbell-25lbs">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Only need 1 set of dumbbell space, you can have 5 sets of dumbbell training experience with 80% space saving.</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>adjustable dumbbell</s:tag>
+    <s:tag>adjustable free weight</s:tag>
+    <s:tag>dumbbell</s:tag>
+    <s:tag>fitness</s:tag>
+    <s:tag>flybird</s:tag>
+    <s:tag>FLYBIRD Adjustable Dumbbell</s:tag>
+    <s:tag>free weight</s:tag>
+    <s:tag>sports</s:tag>
+    <s:tag>strength training</s:tag>
+    <s:tag>strength training at home</s:tag>
+    <s:tag>strength training dumbbell</s:tag>
+    <s:tag>strength training free weight</s:tag>
+    <s:tag>workout at home</s:tag>
+    <s:tag>workout for strength training</s:tag>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/5547914395798</id>
+      <title>Single</title>
+      <s:price currency="USD">105.99</s:price>
+      <s:sku>SKFBDB25LB</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://flybirdfitness.com/products/5547914395798</id>
+      <title>Set of 2</title>
+      <s:price currency="USD">199.99</s:price>
+      <s:sku>SKFBDB25LB * 2</s:sku>
+      <s:grams>13000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	egfqnJ52NJlBNE1RUhDuKM22JCNUzBIBYqEZ08wACKY-1652703988-0-AfLzQvuzqkANLnk3QlKjOuWbYdHkFqM+5sBbqSGSwmnsPuWoCyw54QsUZurivv8U5oddvpBR7KU0g+IRI1uyPrY=
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+flybirdfitness.com	TRUE	/	FALSE	1999999999	localization	US
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_secure_session_id	bbe1c7f7e80d6cc46650ed97cf5adac0
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_y	d20a366c-8ac8-44ca-8f26-3dfc188273b1
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_s	90de4946-c07f-40bc-95f5-b2962f332cc2
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_shopify_y	d20a366c-8ac8-44ca-8f26-3dfc188273b1
+flybirdfitness.com	TRUE	/	FALSE	1999999999	_shopify_s	90de4946-c07f-40bc-95f5-b2962f332cc2
+flybirdfitness.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
